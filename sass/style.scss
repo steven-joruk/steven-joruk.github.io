@@ -1,0 +1,77 @@
+// FIXME: Dynamic width on smaller displays
+// FIXME: Get rid of Google web fonts
+// FIXME: Use fontawesome statically
+
+html, body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+    margin-bottom: 40px;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-position: inside;
+}
+
+p, li {
+    font-size: 10pt;
+    font-family: "Open Sans";
+}
+
+h1, h2, h3 {
+    font-weight: lighter;
+    text-transform: uppercase;
+    font-family: "Open Sans";
+}
+
+h1 {
+    color: indigo;
+    font-size: 16pt;
+    text-align: center;
+
+}
+
+span#developer_suffix {
+    color: gray;
+}
+
+h2 {
+    color: indigo;
+    font-size: 14pt;
+}
+
+h3 {
+    color: gray;
+    font-size: 12pt;
+
+}
+
+nav {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+nav > ul > li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+
+body > ul:nth-of-type(1) {
+    text-align: center;
+}
+
+body > ul:nth-of-type(1) > li {
+    list-style: none;
+    display: inline;
+    font-size: 10pt;
+    padding: 20px;
+}
+
+body > ul:nth-of-type(1) > li > span {
+    padding: 0 5px 0 5px;
+}
