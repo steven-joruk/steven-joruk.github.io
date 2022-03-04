@@ -8,32 +8,30 @@ title = "CV"
 
 ## Profile
 
-My love of programming began long before I knew it would be my career, but even now it takes up many of my free evenings. Problem solving is a constant source of enjoyment, which enables me to stay focused even when I'm challenged. I’m able to read through sparse documentation and legacy code effectively on my own, but don’t hesitate to ask for help. I value team productivity and sustainability highly, along with solving the right problems by having a deep understanding of my users' needs.
-My ideal work place would value quality, have a similar level of enthusiasm, and would have a positive effect on the world - either through the products they create or their contributions to open source software.
+My love of programming began long before I knew it would be my career, but even now it takes up many of my free evenings. Problem solving is a constant source of enjoyment, which enables me to stay focused even when I'm challenged. I’m able to navigate large code bases with sparse documentation and refactor legacy systems with a pragmatic and safe approach. I highly value team productivity and sustainability, along with solving the right problems by gaining a deep understanding of my users' needs. My ideal work place would value quality, have enthusiasm for the problems they are solving, and would have a positive effect on the world - either through the products they create or their contributions to open source software.
 
 ## Skills
 
-### Recent Personal projects
+### Recent Personal Projects
 
-* Stanford's cryptography course on Coursera.
+* Learning the Rust Analyzer code base to add new IDE assists.
 * Rust FFI bindings for macOS’ Security Framework.
 * Conversation support for the Rust sudo plugin bindings.
-* Minor improvements to Rust's cargo project.
 * An implementation of the first version of the QOI image file format.
 
-### Programming Languages
+### Operating Systems, Programming Language and Frameworks
 
-Rust, modern C++, Qt, Swift, Python 3, Bash, C#, C, CSS, GLib/GTK, Java, Javascript, Lua, Qt, Swift5, Typescript.
-
-### Operating systems
-
-Linux (both as embedded and desktop), macOS, Windows, Windows CE.
+I’m very familiar with Linux, macOS, Rust, C and Qt. I’m comfortable with Windows,
+modern C++, Swift and Python. **I've omitted other languages and frameworks to
+avoid turning up in too many search results.**
 
 ### Expertise
 
-Writing test suites, refactoring legacy code, CI/CD pipeline creation and maintenance, debugging challenging faults and performance issues, designing new software and features, threat modelling and security analysis.
+Refactoring legacy code, writing test suites, CI/CD pipeline creation and maintenance,
+debugging challenging faults and performance issues, designing new software and
+features, threat modelling and security analysis.
 
-### Personal Attributes
+### Personal attributes
 
 Empathetic and engaged team member, problem solver, disciplined self learner.
 
@@ -41,31 +39,28 @@ Empathetic and engaged team member, problem solver, disciplined self learner.
 
 ### Lead Software Developer, BeyondTrust 2021 - Present
 
-* Continue my existing responsibilities as a senior software engineer.
-* Work with other teams to evaluate the feasibility and security of upcoming features.
-* Design imminent features along with my own team and  impacted teams.
-* Evangelise good work practices - failing fast, design principles, code quality, sustainability.
-* Research upcoming technology that may help us to work smarter or that may impact our software in the future.
+* Focusing on furthering my knowledge of effective communication. This includes reading relevant literature and sharing experiences with my team’s architect.
+* Investigating porting C++ with Qt to Rust using an incremental approach. Develop proof of concepts for difficult areas, e.g. fairly low level macOS APIs and a sudo plugin.
+* Designed and implemented a privileged daemon to add support for macOS to BeyondTrust’s PasswordSafe product. This is written in Rust and has very high test coverage using the mockall crate and custom Open Directory FFI bindings.
+* Designed and implemented additional protections for sudo commands on macOS, which suffer from a time-of-check time-of-use (TOCTOU) vulnerability. This uses the Endpoint
+Security framework.
+* Designed and implemented anti-tamper protection using the Endpoint Security framework. This involves preventing launchd and privileged users from stopping protected processes and modifying protected files, while still allowing legitimate actions from MDMs and the OS.
 
 ### Senior Software Engineer, BeyondTrust 2018 - 2021
 
-* Develop and maintain ‘Privilege Management for macOS’ as part of an agile team, which allows businesses to empower their users without giving them admin accounts.
+* Worked as part of an agile product team that regularly interacts with 4 other agile teams. The macOS product is installed on hundreds of thousands of user’s computers. It enables least-privilege security by allowing standard users to perform specific privileged actions and restricting unwanted actions
 * Ported the same product to Linux.
 * Implemented a Finder extension to allow standard users to install and remove application bundles.
-* Moved a core section of the code to a privileged XPC helper, improving security and parallelism.
-* Helped drastically improve our automated tests.
-* Investigated using Rust for its root daemon.
+* Factored out a core section of code to a privileged XPC helper.
+* Helped bring our unit test count from 0 to 400, and our system test count from around 20 to 240. Coverage is around 80% when considering both suites.
 
 ### Senior Software Developer, TouchStar Technologies: 2011 - 2018
 
-* Manage and maintain the development infrastructure which includes Gitlab, MantisBT, Gerrit, Jenkins, Ubuntu Server, BitBucket, containers (LXC) and a custom automated build system.
 * Bring up and maintain BSPs targeting ARM used internationally in a wide range of environments, such as airplanes, trains, trucks, warehouses and explosive atmospheres:
-  + Windows Compact Edition (WinCE) 5, 6, 7 development for PXA255, PXA270 and OMAP3.
-  + Android 2.3, 5, 6 (Gingerbread, Lollipop, Marshmallow) development for OMAP3 and i. MX6 with kernel versions 2.6, 3.10 and 4.1.
+  * Windows Compact Edition for PXA255, PXA270 and OMAP3.
+  * Android development for OMAP3 and i.MX6.
 * Driver development and debugging of GPIO expanders, I2C, SPI, Bluetooth, WiFi, Ethernet, GPRS/3G, SDIO, SDHC, UARTs, USB, touch screens, battery gas gauges, CPLDs, accelerometers, graphics and micro controllers.
-* Improve quality through designing and implementing code review, continuous integration and semi-automated testing.
-* Assist the applications department with debugging and optimisations, for example I reduced a national delivery company’s on-device parcel parsing time from several hours to 30 seconds.
-* Taught colleagues new technologies and development tools, such as Linux and Git.
+* Assist the applications team with debugging and optimisations. In one case was able to reduce a national delivery company’s on-device parcel parsing time from several hours to 30 seconds by interning strings.
 
 ### Graduate Software Engineer: 2010 - 2011
 
