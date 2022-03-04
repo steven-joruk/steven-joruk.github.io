@@ -5,7 +5,6 @@ title = "CV"
 # Steven Joruk {{ span_with_id(id="developer_suffix", content="| Developer") }}
 * {{ span_with_class(name="fa-brands fa-github" content="") }} [github.com/steven-joruk](https://github.com/steven-joruk)
 * {{ span_with_class(name="fa-solid fa-envelope-open-text" content="") }} [steven@joruk](mailto:steven@joruk.com)
-* {{ span_with_class(name="fa-brands fa-linkedin" content="") }} [stevenjoruk](https://linkedin.com/stevenjoruk)
 
 ## Profile
 
