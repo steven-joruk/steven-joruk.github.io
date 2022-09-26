@@ -37,7 +37,14 @@ Empathetic and engaged team member, problem solver, disciplined self learner.
 
 ## Experience
 
-### Lead Software Developer, BeyondTrust 2021 - Present
+### Senior Backend Engineer, LaunchBadge 2022 - Present
+
+* This is a services company developing web and mobile applications, I'm focused on backend development using Rust, SQLx, Postgres and many third party integrations.
+* The first project I was assigned to was as a lead developer on a small team. We created part of a system that enabled immediate fiat loans during merchant payments processing using customer's crypto as collateral.
+* The second project was an auction website for the sale of barrels of alcohol using distributed ledger technology to record the ownership of bottles.
+* The company is fairly small so the processes are often informal. I'm enjoying being able to encourage best practices and see change through leading by example.
+
+### Lead Software Developer, BeyondTrust 2021 - 2022
 
 * Focusing on furthering my knowledge of effective communication. This includes reading relevant literature and sharing experiences with my team’s architect.
 * Investigating porting C++ with Qt to Rust using an incremental approach. Develop proof of concepts for difficult areas, e.g. fairly low level macOS APIs and a sudo plugin.
