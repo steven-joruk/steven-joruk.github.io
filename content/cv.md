@@ -44,13 +44,13 @@ software and features, threat modelling and security analysis.
 
 ### Senior Backend Engineer, LaunchBadge 2022 - Present
 
-This is a services company developing web and mobile applications, I'm focused
-on backend development using Rust, SQLx, Postgres and many third-party
-integrations. The company is fairly small so the processes are often informal.
-I'm enjoying being able to encourage best practices and see change through
-leading by example.
+LaunchBadge are a services company.
 
-* Lead a small team that created a system enabling immediate fiat loans during
+* I'm currently leading a team to implement the [Hashgraph consensus algorithm](https://www.youtube.com/watch?v=wgwYU1Zr9Tg)
+  in Rust along with C# bindings and a Unity Network transport plugin. This
+  enables game sessions without a central server or an individual host, which
+  will provide significant cost savings to game developers.
+* Lead a team that created a system enabling immediate fiat loans during
   merchant payments processing using customer's crypto as collateral.
 * Worked on a team that created an auction website for the sale of barrels of
   alcohol using distributed ledger technology to record the ownership of
