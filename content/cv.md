@@ -4,7 +4,7 @@ title = "CV"
 
 # Steven Joruk {{ span_with_id(id="developer_suffix", content="| Developer") }}
 * {{ span_with_class(name="fa-brands fa-github" content="") }} [github.com/steven-joruk](https://github.com/steven-joruk)
-* {{ span_with_class(name="fa-solid fa-envelope-open-text" content="") }} [steven@joruk](mailto:steven@joruk.com)
+* {{ span_with_class(name="fa-solid fa-envelope-open-text" content="") }} [steven@joruk.com](mailto:steven@joruk.com)
 
 ## Profile
 
@@ -14,9 +14,9 @@ and trying to implement various algorithms.
 
 My ideal team would value quality, have enthusiasm for the problems they are
 solving, and would have a positive effect on the world - either through the
-products they create or their contributions to open source software. In the near
-term I'd like to continue with either as an individual contributor or as a
-technical lead.
+products they create or their contributions to open-source software. In the near
+term I'd like to continue either as an individual contributor or as a technical
+lead.
 
 ## Skills
 
@@ -36,7 +36,7 @@ frameworks to avoid turning up in too many search results.**
 
 Refactoring legacy code, writing test suites, CI/CD pipeline creation and
 maintenance, debugging challenging faults and performance issues, designing new
-software and features, threat modelling and security analysis.
+software and features, threat modeling and security analysis.
 
 ## Experience
 
@@ -58,12 +58,12 @@ LaunchBadge is a software services company.
 ### Lead Software Developer, BeyondTrust 2021 - 2022
 
 * Investigating porting C++ with Qt to Rust using an incremental approach.
-  Develop proof of concepts for difficult areas, e.g. fairly low level macOS
-  APIs and a sudo plugin.
+  Develop proof of concepts for difficult areas, e.g. low level macOS APIs and a
+  sudo plugin.
 * Designed and implemented a privileged daemon to add support for macOS to
   BeyondTrust’s PasswordSafe product. This is written in Rust and has very high
   test coverage using the mockall crate and custom Open Directory FFI bindings.
-* Designed and implemented additional protections for sudo commands on macOS,
+* Designed and implemented extra protections for sudo commands on macOS,
   which suffer from a time-of-check time-of-use (TOCTOU) vulnerability. This
   uses the Endpoint Security framework.
 * Designed and implemented anti-tamper protection using the Endpoint Security
@@ -87,15 +87,15 @@ LaunchBadge is a software services company.
 ### Senior Software Developer, TouchStar Technologies: 2011 - 2018
 
 * Bring up and maintain BSPs targeting ARM used internationally in a wide range
-  of environments, such as airplanes, trains, trucks, warehouses and explosive
+  of environments, such as airplanes, trains, trucks, warehouses, and explosive
   atmospheres:
   * Windows Compact Edition for PXA255, PXA270 and OMAP3.
   * Android development for OMAP3 and i.MX6.
 * Driver development and debugging of GPIO expanders, I2C, SPI, Bluetooth, WiFi,
   Ethernet, GPRS/3G, SDIO, SDHC, UARTs, USB, touch screens, battery gas gauges,
   CPLDs, accelerometers, graphics and micro controllers.
-* Assist the applications team with debugging and optimisations. In one case was
-  able to reduce a national delivery company’s on-device parcel parsing time
+* Assist the applications team with debugging and optimisations. In one case I
+  was able to reduce a national delivery company’s on-device parcel parsing time
   from several hours to 30 seconds by interning strings.
 
 ### Graduate Software Engineer, Mobica: 2010 - 2011
