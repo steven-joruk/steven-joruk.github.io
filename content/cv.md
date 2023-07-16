@@ -8,17 +8,15 @@ title = "CV"
 
 ## Profile
 
-My love of programming began long before I knew it would be my career, but even
-now it takes up many of my free evenings. Problem solving is a constant source
-of enjoyment, which enables me to stay focused even when I'm challenged. I’m
-able to navigate large code bases with sparse documentation and refactor legacy
-systems with a pragmatic and safe approach. I highly value team productivity and
-sustainability, along with solving the right problems by gaining a deep
-understanding of my users' needs.
+I've always been interested in understanding how things work. From a young age
+I'd spend a lot of my free time writing home brew operating systems, emulators,
+and trying to implement various algorithms.
 
-My ideal work place would value quality, have enthusiasm for the problems they
-are solving, and would have a positive effect on the world - either through the
-products they create or their contributions to open source software.
+My ideal team would value quality, have enthusiasm for the problems they are
+solving, and would have a positive effect on the world - either through the
+products they create or their contributions to open source software. In the near
+term I'd like to continue with either as an individual contributor or as a
+technical lead.
 
 ## Skills
 
@@ -44,7 +42,7 @@ software and features, threat modelling and security analysis.
 
 ### Senior Backend Engineer, LaunchBadge 2022 - Present
 
-LaunchBadge are a services company.
+LaunchBadge is a software services company.
 
 * I'm currently leading a team to implement the [Hashgraph consensus algorithm](https://www.youtube.com/watch?v=wgwYU1Zr9Tg)
   in Rust along with C# bindings and a Unity Network transport plugin. This
@@ -111,6 +109,7 @@ LaunchBadge are a services company.
   1.1 graphics driver. I worked heavily with hardware video overlays, from the
   control panel UI through to kernel mode.
 
+<!--
 ## Education
 
 ### University of Salford - Computer Science BSc, 2010
@@ -118,3 +117,4 @@ LaunchBadge are a services company.
 My final year project was to create a karaoke file format (CDG) parser and
 player. Optional modules included artificial intelligence, data mining and
 mobile development.
+-->
