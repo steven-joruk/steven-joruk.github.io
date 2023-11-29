@@ -40,7 +40,7 @@ software and features, threat modeling and security analysis.
 
 ## Experience
 
-### Senior Backend Engineer, LaunchBadge 2022 - Present
+### Senior Backend Engineer, LaunchBadge April 2022 - Present
 
 LaunchBadge is a software services company.
 
@@ -55,7 +55,10 @@ LaunchBadge is a software services company.
   bottles.
 * Contributed to a Hedera hashgraph explorer and mirror node.
 
-### Lead Software Developer, BeyondTrust 2021 - 2022
+### Lead Software Developer, BeyondTrust January 2020 - April 2022
+
+This was a promotion from my previous position. I continued working with the
+same team.
 
 * Investigating porting C++ with Qt to Rust using an incremental approach.
   Develop proof of concepts for difficult areas, e.g. low level macOS APIs and a
@@ -71,7 +74,7 @@ LaunchBadge is a software services company.
   protected processes and modifying protected files, while still allowing
   legitimate actions from MDMs and the OS.
 
-### Senior Software Engineer, BeyondTrust 2018 - 2021
+### Senior Software Engineer, BeyondTrust January 2018 - January 2021
 
 * Worked as part of an agile product team that regularly interacts with 4 other
   agile teams. The macOS product is installed on hundreds of thousands of user’s
@@ -84,7 +87,7 @@ LaunchBadge is a software services company.
 * Helped bring our unit test count from 0 to 400, and our system test count from
   around 20 to 240. Coverage is around 80% when considering both suites.
 
-### Senior Software Developer, TouchStar Technologies: 2011 - 2018
+### Senior Software Developer, TouchStar Technologies: July 2011 - January 2018
 
 * Bring up and maintain BSPs targeting ARM used internationally in a wide range
   of environments, such as airplanes, trains, trucks, warehouses, and explosive
@@ -98,7 +101,7 @@ LaunchBadge is a software services company.
   was able to reduce a national delivery company’s on-device parcel parsing time
   from several hours to 30 seconds by interning strings.
 
-### Graduate Software Engineer, Mobica: 2010 - 2011
+### Graduate Software Engineer, Mobica: July 2010 - July 2011
 
 * Ported a C++ PDF e-book reader to a WinCE 5.0 device, making use of Adobe
   RMSDK and the Win32 API.
