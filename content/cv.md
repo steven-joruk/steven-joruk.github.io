@@ -65,7 +65,8 @@ same team.
   Develop proof of concepts for difficult areas, e.g. low level macOS APIs and a
   sudo plugin.
 * Designed and implemented a privileged daemon to add support for macOS to
-  BeyondTrust’s PasswordSafe product. This is written in Rust and has very high
+  the [PasswordSafe](https://www.beyondtrust.com/products/password-safe)
+  product. This is written in Rust and has very high
   test coverage using the mockall crate and custom Open Directory FFI bindings.
 * Designed and implemented extra protections for sudo commands on macOS,
   which suffer from a time-of-check time-of-use (TOCTOU) vulnerability. This
@@ -78,7 +79,8 @@ same team.
 ### Senior Software Engineer, BeyondTrust January 2018 - January 2021
 
 * Worked as part of an agile product team that regularly interacts with 4 other
-  agile teams. The macOS product is installed on hundreds of thousands of user’s
+  agile teams. The [macOS product](https://www.beyondtrust.com/products/privilege-management-for-windows-and-mac)
+  is installed on hundreds of thousands of user’s
   computers. It enables least-privilege security by allowing standard users to
   perform specific privileged actions and restricting unwanted actions
 * Ported the same product to Linux.
