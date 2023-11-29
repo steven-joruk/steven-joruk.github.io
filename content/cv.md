@@ -48,6 +48,7 @@ LaunchBadge is a software services company.
   in Rust along with C# bindings and a Unity Network transport plugin. This
   enables game sessions without a central server or an individual host, which
   will provide significant cost savings to game developers.
+  Read more at [tashi.gg](https://tashi.gg) and [tashi.dev](https://tashi.dev).
 * Lead a team that created a system enabling immediate fiat loans during
   merchant payments processing using customer's crypto as collateral.
 * Worked on a team that created an auction website for the sale of barrels of
