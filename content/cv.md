@@ -1,10 +1,11 @@
-+++
-title = "CV"
-+++
+---
+title: Steven Joruk's CV
+---
 
-# Steven Joruk {{ span_with_id(id="developer_suffix", content="| Developer") }}
-* {{ span_with_class(name="fa-brands fa-github" content="") }} [github.com/steven-joruk](https://github.com/steven-joruk)
-* {{ span_with_class(name="fa-solid fa-envelope-open-text" content="") }} [steven@joruk.com](mailto:steven@joruk.com)
+# Steven Joruk <span id="developer_suffix">| Developer</span>
+
+* <object class="fa" data="github.svg"></object> [github.com/steven-joruk](https://github.com/steven-joruk)
+* <object class="fa" data="envelope-open-text-solid.svg"></object> [steven@joruk.com](mailto:steven@joruk.com)
 
 ## Profile
 
