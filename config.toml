@@ -1,5 +1,4 @@
 base_url = "https://steven-joruk.github.io"
-compile_sass = true
 build_search_index = true
 
 [markdown]
