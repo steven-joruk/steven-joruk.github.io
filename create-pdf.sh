@@ -1,0 +1,1 @@
+podman run -v $PWD:/cv -w /cv/static -t docker.io/stevenjoruk/md-to-pdf:latest pandoc --pdf-engine-opt="--print-media-type" -t html -V title:"" -V pagetitle:"Steven Joruk's CV" --css style.css ../content/cv.md -o cv.pdf
